@@ -1,26 +1,18 @@
-<h1 align="center">Niharika</h1>
-<p align="center"><i>CSE Cyber Security Student</i></p>
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
-<p align="center">![Stars](https://img.shields.io/github/stars/Niharikarai200/Niharikarai200?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=FFD93D) ![Forks](https://img.shields.io/github/forks/Niharikarai200/Niharikarai200?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=FF6B6B) ![Issues](https://img.shields.io/github/issues/Niharikarai200/Niharikarai200?style=for-the-badge&logo=github&logoColor=white&color=000000&labelColor=C4B5FD)</p>
 
-<p align="center">![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Niharikarai200&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Niharikarai200&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Niharikarai200&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Niharikarai200&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I am Niharika Rai from India, a Cybersecurity student passionate about building secure applications.
-
-## Table of contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Scripts](#scripts)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
-## Acknowledgments
-
-- Tailwind CSS — the only utility framework
-- Space Grotesk — the loudest sans-serif on the web
-- Coffee — the real MVP
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
