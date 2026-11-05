@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+📍 I am Niharika Rai from India<br>
+🔭 I’m currently working on Python Projects
+<br>🌱 I’m currently learning python
+<br>
 
 
 # 💻 Tech Stack:
