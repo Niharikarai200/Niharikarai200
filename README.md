@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍 I am Niharika Rai from India<br>
+📍 I am Niharika Rai a Cyber Security student from India<br>
 🔭 I’m currently working on Python Projects
 <br>🌱 I’m currently learning python
 <br>
